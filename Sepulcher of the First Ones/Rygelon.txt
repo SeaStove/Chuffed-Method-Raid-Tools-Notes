@@ -1,0 +1,6 @@
+• {tank} |cff00ffffTanks|r |cffff7c0atank the boss|r in between two |cffc41e3aQuasar|r spawn points at the edge of the room.
+• {tank} |cff00ffffTanks|r |cffff7c0aTaunt swap|r after every |cffffff00Corrupted Strikes|r cast, use a CD to mitigate it's damage.
+• |cffff7c0aKill and slow|r |cffc41e3aQuasar|r adds asap.
+• |cfffff468If you get a black debuff on your head,|r |cffff7c0astep in the pool Quasars drop.|r
+• |cffff7c0aKill|r the |cffff0000Unstable Matter|r orb right before |cffff0000Rylegon|r gets |cfffff468100 energy|r, |cffff7c0athen everyone stand in a pool.|r
+• |cffff7c0aDodge|r black lines.

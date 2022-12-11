@@ -1,0 +1,19 @@
+|cffff00ffPhase One (War and Duty):|r
+• |cffff7c0aInterrupt |r|cffff0000War.|r
+• |cffff7c0aKill|r adds that spawn asap.
+• If you get |cffffff00Runecarvers Deathtouch|r|r|r debuff, |cffff7c0arun into the blue barriers|r and {healer} |cff00ffffhealers|r |cffff7c0adispel|r them.
+• When Duty flies into the air, |cffff7c0arun against the wind|r and |cffff7c0adodge swirlies|r. 
+|cffff7c0aBreak out|r anyone who gets pinned by a swirly.
+• {tank} |cff00ffffTanks|r use big mitigation before |cffffff00Humbling Strikes|r from |cffc41e3aDuty|r, and |cffff7c0ataunt swap|r after every cast. 
+• Get the bosses to 50% health around the same time.
+
+|cffff00ffIn Phase Two (Renewal and Absolution):|r
+• |cffff7c0aInterrupt|r |cffff0000Renewal.|r
+• |cffff7c0aRun away|r from |cffff0000Absolution's|r |cffffff00Hand of Destruction.|r
+• {tank} |cff00ffffTanks|r face |cffc41e3aAbsolution|r |cffff7c0aaway from the raid|r and |cffff7c0ataunt swap|r after every |cffffff00Wracking Pain cast|r.
+• {healer} |cff00ffffHealers|r |cffff7c0aheal|r the friendly seeds to full health.
+• Try to get the bosses to 50% health at the same time.
+
+|cffff00ffIn Phase Three (All Four Bosses):|r|r
+
+• |cffff7c0aClump|r bosses then |cffff7c0abloodlust.|r

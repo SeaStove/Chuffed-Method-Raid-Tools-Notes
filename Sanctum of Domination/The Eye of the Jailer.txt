@@ -1,0 +1,16 @@
+|cffff00ffPhase One:|r
+
+{tank} |cff00ffffTanks: |r|cffff7c0aMitigate|r|r the |cffffff00Deathlink|r cast to reduce its raid damage, and taunt swap after every cast.
+|cffff7c0aUse the grappling hooks |rto avoid the giant laser |cffffff00|cffffff00(Annihilating Glare|cffffffff), or use immunities/teleports.|r|r|r
+|cffff7c0aDodge|r swirlies, or else you will need to run over your soul fragments |cffffff00(Fracture Soul)|r.
+
+|cffff7c0aBloodlust/Heroism|r|r {spell:2825} in the last phase one at 33% health in order to survive the enrage |cffffff00(Immediate Extermination)|r.
+
+
+
+|cffff00ffPhase Two:|r
+
+{tank} |cff00ffffTanks:|r |cffff7c0aSeparate the adds|r at least 55 yards |cffffff00(Shared Suffering).|r|r
+|cffff7c0aSplit|r into two halves to kill the adds at the same time |cffffff00(Dying Suffering).|r
+|cffff7c0aStay away|r from the player with a circle around them |cffffff00(Desolation Beam).|r
+And try to stay away from the front of the platform to keep it clear of pools |cffffff00(Jailer's Misery)|r.|r

@@ -1,0 +1,6 @@
+• |cffff7c0aBloodlust|r on pull.
+• |cffff7c0aTank and nuke|r the |cffc41e3aDomination Core.|r
+• Stand in between the boss and the player that is Arrow marked with |cffffff00Staggering Barrage|r. 
+• {tank} |cff00ffffTanks|r |cffff7c0ataunt swap|r whenever the debuff |cffffff00Infused Strikes|r on the off tank expires, at as low stacks as possible.
+• When boss casts |cffffff00Inevitable Dominion|r, |cffff7c0anuke the shield|r she puts on herself asap, and {healer} |cff00ffffhealers|r|r use raid cooldowns to survive the massive pulsing damage.
+• |cffff7c0aStagger|r moving through the dark rings that expand, make sure the previous debuff falls off.

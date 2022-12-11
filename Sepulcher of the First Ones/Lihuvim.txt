@@ -1,0 +1,8 @@
+|cffff00ffBoss Phase:|r
+• |cffff7c0aRun away and clump together|r when you get a circle under your feet to drop a mote.
+• If you get |cffff7c0amarked with an arrow|r and bigger circle, |cffff7c0arun next to the motes|r to destroy them.
+• |cffff7c0aDon't get knocked back into motes.|r
+• {tank} |cff00ffffTanks|r |cffff7c0aface the boss away|r from the raid and |cffff7c0ataunt swap|r after every cast in the |cffffff00Resonance|r combo.
+
+|cffff00ffIn the Add Phase:|r
+• |cffff7c0aKill|r |cffffff00Acquisitions > Degeneration > Guardian.|r

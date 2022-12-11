@@ -1,0 +1,14 @@
+|cffff00ffPhase One:|r
+
+|cffff7c0aRun the circles|r on random players out to the edges of the room and stay out of other players' circles |cffffff00(Call of Eternity).|r
+|cffff7c0aDodge|r the beams from the edges of the room |cffffff00(Fated Conjunction).|r
+When the current {tank} |cff00fffftank|r gets a big circle around them,|cff00ffff {tank} the off-tank|r should|cffff7c0a taunt swap|r while the {tank} |cff00ffffdefuffed tank|r |cffff7c0aruns|r|r away|r from the raid and explodes |cffffff00(Invoke Destiny). |rThen that debuffed tank should stay away from the add that spawns and fixates them while the raid slows and cleaves the add down |cffffff00(Burden of Destiny).|r 
+When the add dies, |cffff7c0ainterrupt and kill|r the other little adds that spawn from it |cffffff00(Anomalous Blast).|r
+{tank} |cff00ffffTanks:|r |cffff7c0ause a defensive cooldown|r when |cffff7c0ataunt swapping|r |cffffff00(Diviner's Probe).|r
+And save |cffff7c0aBloodlust|r for the final phase one where you also have phase two puzzles to solve.
+
+|cffff00ffPhase Two:|r
+
+|cffff7c0aMove each of the runes|r on the ground back into place by having an |cffff7c0aodd number of players|r stand on the rune to move it clockwise, or an |cffff7c0aeven number|r to move it counterclockwise. You only have 40 seconds to get them all done or else you wipe |cffffff00(Darkest Destiny).|r
+{tank} |cff00ffffTank:|r |cffff7c0aTank, interrupt, and kill|r the two big adds that spawn |cffffff00(Despair).|r
+|cffff7c0aDodge |rthe gray orbs that are floating around |cffffff00(Fate Fragment).|r

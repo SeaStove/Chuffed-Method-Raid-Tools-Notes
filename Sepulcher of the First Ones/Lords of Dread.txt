@@ -1,0 +1,8 @@
+• {tank} |cff00ffffTanks|r tank the bosses to the |cffff7c0aedge of the room together|r, one boss on each tank, facing slightly different directions. |cffff7c0aTaunt swap|r every time |cffc41e3aMal'ganis |rcasts|cffffff00 Leeching Claws|r.
+• |cffff7c0aStay spread|r for the |cffffff00green circle debuffs|r|r. |cffff7c0aPass them|r to another player if you start to take too much damage. 
+• |cffff7c0aStand still|r if you have a |cffffff00purple circle around you.|r
+• |cffff7c0aStand in a purple circle|r if you have |cffff7c0agreen circle.|r It'll make the green circle go away, but also causes green goo to shoot out from you. |cffff7c0aEveryone dodge the green goo |ror else you'll get a green circle.
+• |cffff7c0aAvoid|r Purple clouds that float around. (different than purple circles around players)
+• |cffc41e3aCaster adds|r spawn at 0% health, |cfffff468they'll heal to 100%|r |cffff7c0aTHEN kill them.|r
+• When |cffc41e3aMal'ganis|r |cfffff468reaches 100 energy|r, |cffff7c0astack in melee, bloodlust, and nuke them both|r.
+• When |cffc41e3aKin'tessa|r |cfffff468reaches 100 energy,|r if you see a dreadlord image above someones head|cffff7c0a, click "Vote" on the Weak Aura or call it out.|r |cffff7c0aKill|r any player with |cfffff468multiple votes|r.

@@ -1,0 +1,5 @@
+• |cffff7c0aBloodlust|r|r on pull.
+• |cff00ffffMelee|r stand on {square}, Ranged stand on {triangle}
+• |cffff7c0aStack|r together on {square} when told to.
+• {tank} |cff00ffffTanks|r stay stacked up until 100 energy, and then spread during the tank combo. Taunt swap during the combo in order to avoid getting hit by |cffffff00Riftmaw|r or|cffffff00 Rend |rtwice in a row.
+• |cffff7c0aDodge|r the frontal cone, and |cff00ffffmelee|r |cffff7c0adodge|r the blue swirlies

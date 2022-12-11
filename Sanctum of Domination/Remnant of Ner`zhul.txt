@@ -1,0 +1,7 @@
+{healer} |cff00ffffHealer: |r|cffff7c0aDispel |r|cffff7c0aplayers with the |cffffff00Malevolence|r debuff once they have moved toward the edge of the platform|r and they are |cffff7c0afacing the edge.|r This knocks everyone away from the player and knocks the debuffed player toward where their back is facing.
+
+{tank} |cff00ffffTanks|r:|cffff7c0a hit the orbs with the frontal from the boss|r, and taunt swap after every frontal |cffffff00(Suffering).|r
+
+|cffff7c0aKill each orb|r once it has been hit by a frontal. And then have |cffff7c0asomeone pick it up|r|cffff7c0a, quickly run it to the edge of the platform, and throw it off.|r
+
+|cffff7c0aDodge swirlies|r|r |cffff7c0aand cones|r on the ground |cffffff00(Spite/Grasp of Malice).|r

@@ -1,0 +1,10 @@
+|cffff7c0aBloodlust|r on pull.
+
+|cffff7c0aSpread out|r with circles on random players |cffffff00(Threat Neutralization).|r
+|cffff7c0aDodge|r the slow-moving floating orbs |cffffff00(Suppression Field).|r
+|cffff7c0aDodge|r the boss's randomly facing frontal |cffffff00(Disintegration).|r
+{tank} |cff00ffffTank:|r |cffff7c0akeep the boss near a core's circle on the ground|r, and |cffff7c0akeep the boss faced away|r from the raid.
+{tank} |cff00ffffTanks:|r |cffff7c0aaim|r |cffffff00Sunder|r away to|cffff7c0a get hit alone|r and|cffff7c0a taunt swap|r after each one. 
+
+Everyone |cffff7c0amove into a core's circle|r along with the boss after at least one cast of |cffffff00Purging Protocol|r at 0 energy, in order to stop the casts and charge the boss back up.
+And |cffff7c0aquickly run away|r from the core when it is depleted and starts to explode |cffffff00(Meltdown).|r

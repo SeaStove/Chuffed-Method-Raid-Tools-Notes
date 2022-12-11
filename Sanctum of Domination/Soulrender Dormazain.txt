@@ -1,0 +1,8 @@
+|cffff7c0aDodge the big red cones|r on the ground |cffffff00(Torment). |rWhen the boss gets to full energy,|cffff7c0a dodge|r several of them in a row |cffffff00(Tormented Eruptions).|r
+
+|cffff7c0aInterrupt, group up, and kill the caster adds |rthat occasionally spawn toward the back of the room before they reach Garrosh |cffffff00(Agonizing Nova).|r
+
+|cffff7c0aStagger breaking each set of 3 shackles|r when they spawn near Garrosh and |cffff7c0ause big raid cooldowns|r to survive them breaking |cffffff00(Unleashed Tyranny).|r You have to|cffff7c0a interact |rwith each one and move 40 yards away to break them |cffffff00(Warmonger Shackles). |r
+
+{tank} |cff00ffffTanks:|r |cffff7c0ataunt swap|r after every cast of |cffffff00Ruinblade.|r
+|cffff7c0aStack the red circle debuff|r |cffff7c0aon the adds |rto make them take more damage |cffffff00(Brand of Torment).|r
