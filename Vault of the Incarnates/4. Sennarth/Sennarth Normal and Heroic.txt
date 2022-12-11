@@ -1,0 +1,20 @@
+|cffFF7000FOLLOW|r |cffEA047ESennarth|r up the room as she goes.
+|cffFFBF00Ice patches|r are slippery.
+
+|cffff00ffPHASE 1:|r
+|cffFF7000SPREAD|r with |cffFFBF00Chilling Blast|r.
+|cffFF7000RUN AWAY|r with |cffFFBF00Enveloping Webs|r, it drops |cffFFBF00Sticky Webbing|r.
+|cffFF7000USE A MOVEMENT ABILITY|r or |cffFF7000STAND IN|r |cffFFBF00Sticky Webbing|r to avoid being pulled off by |cffFFBF00Gossamer Burst|r.
+|cffFF7000DON'T STAND IN|r |cffFFBF00Sticky Webbing|r too long (10 stacks) or you get stunned by |cffFFBF00Wrapped in Webs|r.
+If a player is |cffFFBF00Wrapped in Webs|r, |cffFF7000DRAG AND KILL|r a |cffEA047ECaustic Spiderling|r near them. 
+|cffFF7000NUKE|r |cffEA047EFrostbreath Arachnids|r adds asap.
+
+|cffff00ffPHASE 2 (Top of the Boss Room):|r
+|cffFF7000AVOID|r bombs dropped by |cffFFBF00Chilling Blast|r.
+|cffFFBF00Gossamer Burst|r is now |cffFFBF00Repelling Burst|r, which pushes you away.
+|cffFFBF00Enveloping Webs|r now knocks back and causes |cffFFBF00Wrapped in Webs|r at the end of it's duration.
+{T}
+{tank}|cff00ffffTanks:|r |cffFF7000FACE AWAY|r |cffEA047EFrostbreath Arachnids|r from the raid to ensure their |cffFFBF00Freezing Breath|r does not cover the room.
+{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r on 9-10 stacks of |cffFFBF00Web Blast|r.
+{tank}|cff00ffffTanks:|r When not tanking |cffEA047ESennarth|r, |cffFF7000DRAG AND KILL|r |cffEA047ECaustic Spiderlings|r on |cffFFBF00Wrapped in Webs|r players.
+{/T}

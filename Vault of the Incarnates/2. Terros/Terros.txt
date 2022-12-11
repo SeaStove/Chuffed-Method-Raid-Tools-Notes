@@ -1,9 +1,0 @@
-|cffFF7000SOAK|r |cffFFBF00Rock Blast|r
-|cff00ffff{Hunter}Ranged Players:|r |cffFF7000STACK ON LEFT|r inside of circle during |cffFFBF00Rock Blast|r .
-|cff00ffff{Warrior}Melee Players:|r |cffFF7000STACK ON RIGHT|r inside of circle during |cffFFBF00Rock Blast|r .
-|cffFF7000DODGE|r the swirlies.
-|cffFF7000ROTATE CLOCKWISE|r around |cffEA047ETerros|r when he's at |cffFFBF00100 Energy|r and casts |cffFFBF00Resonating Annihilation.|r
-
-{T}{tank}|cff00ffffTanks:|r AIM Concussive Slam at pillars. Do not stand in the line if you are not tanking.
-{tank}|cff00ffffTanks:|r SWAP after each cast of Concussive Slam.
-{tank}|cff00ffffTanks:|r Always have one tank in range of the boss.{/T}

@@ -24,10 +24,10 @@ Role: |cff00ffff |r
 {T}{tank}|cff00ffffTanks:|r {/T}
 
 |cff00ffff{Hunter}Ranged Players:|r
-{c:Paladin,Hunter,Priest,Shaman,Mage,Warlock,Monk,Druid,Evoker} {/c}
+{c:Paladin,Hunter,Priest,Shaman,Mage,Warlock,Monk,Druid,Evoker}{/c}
 
 |cff00ffff{Warrior}Melee Players:|r
-{c:Warrior,Paladin,Hunter,Rogue,Death Knight,Shaman,Monk,Druid,Demon Hunter,Evoker} {/c}
+{c:Warrior,Paladin,Hunter,Rogue,Death Knight,Shaman,Monk,Druid,Demon Hunter,Evoker}{/c}
 
 {square}
 {triangle}
