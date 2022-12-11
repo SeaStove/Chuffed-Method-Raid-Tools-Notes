@@ -1,10 +1,10 @@
 |cffFF7000BLOODLUST|r {spell:2825} on the pull.
-|cffFF7000SOAK|r |cffFFBF00Rock Blast|r
-|cff00ffff{Hunter}Ranged Players:|r |cffFF7000STACK ON LEFT|r inside of circle during |cffFFBF00Rock Blast|r.
-|cff00ffff{Warrior}Melee Players:|r |cffFF7000STACK ON RIGHT|r inside of circle during |cffFFBF00Rock Blast|r.
+|cffFF7000SOAK|r |cffffff00Rock Blast|r
+|cff00ffff{Hunter}Ranged Players:|r |cffFF7000STACK ON LEFT|r inside of circle during |cffffff00Rock Blast|r.
+|cff00ffff{Warrior}Melee Players:|r |cffFF7000STACK ON RIGHT|r inside of circle during |cffffff00Rock Blast|r.
 |cffFF7000DODGE|r the swirlies.
-|cffFF7000ROTATE CLOCKWISE|r around |cffEA047ETerros|r when he's at |cffFFBF00100 Energy|r and casts |cffFFBF00Resonating Annihilation.|r
+|cffFF7000ROTATE CLOCKWISE|r around |cffa330c9Terros|r when he's at |cffffff00100 Energy|r and casts |cffffff00Resonating Annihilation.|r
 
-{tank}|cff00ffffTanks:|r |cffFF7000AIM|r |cffFFBF00Concussive Slam|r at pillars. Do not stand in the line if you are not tanking.
-{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after each cast of |cffFFBF00Concussive Slam|r.
+{tank}|cff00ffffTanks:|r |cffFF7000AIM|r |cffffff00Concussive Slam|r at pillars. Do not stand in the line if you are not tanking.
+{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after each cast of |cffffff00Concussive Slam|r.
 {tank}|cff00ffffTanks:|r Always have one tank in range of the boss.

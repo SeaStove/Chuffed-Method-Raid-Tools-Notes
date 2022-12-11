@@ -1,18 +1,18 @@
-|cffff00ffPhase One:|r
+|cff00ff00Phase One:|r
 • |cffff7c0aSpread|r out with circles.
 • |cffffff00When you get a Bomb debuff|r, |cffff7c0ajump into a hole|r no one else is using with y|cffff7c0aour back to a safe spot|r when the bomb is about to expire.
 •|cffff7c0a Help soak|r the |cffffff00big circle|r around the tank, be careful of knockback.
 • |cffff7c0aRun away|r from the boss when he pulls you in.
 • |cffff7c0aHide behind pillars|r when he casts Relentless Domination.
 
-|cffff00ffPhase Two:|r
+|cff00ff00Phase Two:|r
 • |cffff7c0aMove out|r of swirlies.
 • |cffff7c0aDodge |rthe big blue swirly.
 • |cffff7c0aMove under the boss|r when you get a |cffffff00blue debuff.|r
 • |cffff7c0aNuke|r |cffc41e3amind controlled players.|r
 • {tank} |cff00ffffTanks|r |cffff7c0ahit a pillar|r with |cffffff00Shattering Blast|r when targeted with it.
 
-|cffff00ffPhase Three:|r
+|cff00ff00Phase Three:|r
 • |cffff7c0aMove out|r of dark pools.
 • |cffffff00When chained to tank|r, |cffff7c0arun away|r until it breaks.
 • |cffff7c0aSoak the big beam|r the boss casts at the center of the room.

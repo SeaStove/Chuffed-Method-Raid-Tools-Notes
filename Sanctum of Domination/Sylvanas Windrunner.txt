@@ -1,4 +1,4 @@
-|cffff00ffPhase One:|r
+|cff00ff00Phase One:|r
 
 |cffff7c0aRun away|r from the big swirlies that spawn arrow adds |cffffff00(Domination Chains).|r 
 If you |cff00ff00have |ra |cffffff00Barbed Arrow|r debuff, |cffff7c0amove close to an arrow|r until you get chained and then. If you |cffc41e3ado not have|r a |cffff7c0aBarbed Arrow|r debuff, stay away from the arrows until the chains go out. Everyone should quickly|cffff7c0a kill these arrows|r to keep everyone alive.
@@ -7,11 +7,11 @@ If you |cff00ff00have |ra |cffffff00Barbed Arrow|r debuff, |cffff7c0amove close 
 
 |cffff7c0aDodge swirlies and big dark circles |r(Veil of Darkness), and {healer} |cffff7c0afocus heal players|r with the Shadow Dagger debuff.
 
-|cffff00ffIn the intermission:|r
+|cff00ff00In the intermission:|r
 
 Quickly |cffff7c0akill|r all of the arrows,|r |cffff7c0adodge|r the lines on the ground |cffffff00(Rive)|r, and spread out when |cffee5555Sylvanas|r casts |cffffff00Banshee Wail.|r
 
-|cffff00ffPhase Two:|r
+|cff00ff00Phase Two:|r
 
 |cffff7c0aDodge the dark waves|r from |cffee5555Sylvanas|r when she is in banshee form|cffffff00 (Haunting Wave)|r, and |cffff7c0ainterrupt|r her |cffffff00Ruin|r cast at all costs.
 Focus |cffff7c0akill|r the |cffee5555Mawsworm Souljudge, Goliath, and Summoner|r adds to progress through the phase.
@@ -22,7 +22,7 @@ Focus |cffff7c0akill|r the |cffee5555Mawsworm Souljudge, Goliath, and Summoner|r
 
 Quickly|cffff7c0a kill the orbs|r spawned by the |cffee5555Summoners|r |cffffff00(Detonati)|r The other adds are not important.
 
-|cffff00ffPhase Three:|r
+|cff00ff00Phase Three:|r
 
 {tank} |cff00ffffThe off-tank|r should |cffff7c0arun over the pools|r on the ground, |cffff7c0amove to a corner|r of the platform, and get {healer} |cffff7c0adispelled|r in order to drop them in a better place|cffffff00 (Banshee's Bane).|r
 {tank} |cff00ffffTanks|r |cffff7c0ataunt swap|r after every |cffffff00Banshee's Heartseeker|r, and the |cff00ffffprevious tank|r should |cffff7c0amove to a corner |rof the platform|r and get {healer} |cffff7c0adispelled|r, dropping more pools out of the way.

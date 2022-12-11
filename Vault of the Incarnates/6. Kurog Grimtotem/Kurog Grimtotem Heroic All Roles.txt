@@ -1,0 +1,34 @@
+|cff00ff00PHASE 1:|r
+|cffa330c9Kurog|r will gain abilities based on the altar you bring him to.
+
+|cffa330c9Fire Altar|r:
+|cffFF7000DODGE|r fire pools.
+|cffFF7000RUN AWAY|r with |cffffff00Searing Carnage|r.
+
+|cffa330c9Frost Altar|r:
+|cffFF7000SOAK|r |cffffff00Absolute Zero|r as two groups. |cff00ffffMelee|r and |cff00ffffRanged|r.
+|cff88ee88HEROIC: |r|cffFF7000DODGE|r projectiles.
+
+|cffa330c9Earth Altar|r:
+|cffFF7000DODGE|r |cffffff00Erupting Bedrock|r ripple.
+|cffFF7000NUKE|r |cffffff00Earth Breaker|r adds.
+
+|cffa330c9Storm Altar|r:
+|cffFF7000SOAK|r |cffffff00Thunder Strike|r individually.
+|cffFF7000SPREAD|r with |cffffff00Shocking Burst|r.
+|cff88ee88HEROIC: |r|cffffff00Lightning Crash|r hits your closest ally, spread the love.
+
+{tank}|cff00ffffTanks:|r |cffFF7000FACE AWAY|r the boss from the raid.
+{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r on each |cffffff00Sundering Strike|r frontal cone cast.
+
+|cff00ff00PHASE 2 (100 Energy):|r
+|cffFF7000KILL|r the |cffa330c9elementals|r.
+|cffa330c9Fire Elemental|r: |cffFF7000AVOID|r pools of lava. |cff88ee88HEROIC:|r |cffFF7000INTERRUPT|r and |cffFF7000KILL|r adds.
+|cffa330c9Frost Elemental|r: |cffFF7000INTERRUPT|r Frost Binds, |cffFF7000STACK ON IT|r for |cffffff00Freezing Tempest|r.
+|cffa330c9Earth Elemental|r: |cffFF7000MOVE|r AWAY from |cffffff00Ground Shatter|r, avoid subsequent eruption.
+|cffa330c9Storm Elemental|r: |cffFF7000MOVE|r AWAY from |cffffff00Lethal Current|r.
+
+|cff00ff00PHASE 3 (After two cycles of P1 and P2):|r
+|cffFF7000BLOODLUST|r {spell:2825} and kill.
+|cffa330c9Kurog|r has all of his abilities.
+

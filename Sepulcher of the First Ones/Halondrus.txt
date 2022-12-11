@@ -1,11 +1,11 @@
-|cffff00ffStationary Phase:|r|cffff7c0a
+|cff00ff00Stationary Phase:|r|cffff7c0a
 • Spread out around the boss|r, and |cffff7c0asoak the orbs|r that move toward the boss.
 • {tank} |cff00ffffTanks|r |cffff7c0ataunt swap|r after every beam cast.
 • {healer} Healers Dispel the Crushing Prism.
 • |cffff7c0aNuke|r the boss when it shields itself and starts pulling you in.
 • When you get a circle on you, |cffff7c0aspread,|r then |cffff7c0amove away|r from the crater that forms.
 
-|cffff00ffIn the Relocation Phase (80% and 50%):|r
+|cff00ff00In the Relocation Phase (80% and 50%):|r
 • |cffff7c0aQuickly move with the boss |ras it moves to the next room, and continue doing damage to it as you go.
 • |cffff7c0aAvoid standing in the big circles|r on the ground, and position yourself so you fly forward when they explode.
 • {healer} |cff00ffffhealers|r be ready to heal on the move.

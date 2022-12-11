@@ -1,18 +1,18 @@
-|cffff00ffPhase One: |r
+|cff00ff00Phase One: |r
 • |cff00ffffGroups 1 and 3|r|r |cff00ffffand 5|r go into the first |cffffff00Kingsmourne Hungers|r frontal cast, |cff00ffffGroups 2 and 4|r|cff00ffff and 6|r go into the second.
 • |cffff7c0aSpread when you get circles on your feet|r, then |cffff7c0atouch a player of the opposing color|r (purple and yellow).
 • |cffff7c0aStack in the healing absorb |rbarried and {healer} healers pump heals on the raid.
 • {tank} |cff00ffffTanks|r |cffff7c0ataunt swap|r |cffc41e3aAnduin|r frequently to reset his attack speed buff, and make sure |cffff7c0ato taunt swap|r before going into the other realm.
 
-|cffff00ffIntermission One:|r
+|cff00ff00Intermission One:|r
 • Boss is immune, once the ghost add spawns |cffff7c0aBloodlust|r and |cffff7c0anuke it|r, cleave down adds.
 • {tank} |cff00ffffTanks|r |cffff7c0ataunt swap|r after every |cffffff00Soul Reaper.|r
 
-|cffff00ffPhase Two:|r
+|cff00ff00Phase Two:|r
 • Same as Phase One but aslo |cffff7c0aCC/Interrupt/Kill the adds|r that spawn.
 
-|cffff00ffIntermission Two:|r
+|cff00ff00Intermission Two:|r
 • Same as Intermission One but also |cffff7c0adodge skeleton walls|r.
 
-|cffff00ffPhase Three:|r
+|cff00ff00Phase Three:|r
 • |cffff7c0aWhen you get a circle on you,|r |cffff7c0astagger running into the middle.|r

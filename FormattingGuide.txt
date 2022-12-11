@@ -1,12 +1,12 @@
 Color Change: |cffRRGGBB...|r
 
-Phase: |cffff00ff |r
-|cffff00ffPHASE 1:|r
+Phase: |cff00ff00 |r
+|cff00ff00PHASE 1:|r
 
-Difficulty: |cff00ff00 |r
+Difficulty: |cff88ee88 |r
 
-Enemy: |cffEA047E |r
-Enemy Move: |cffFFBF00 |r
+Enemy: |cffa330c9 |r
+Enemy Move: |cffffff00 |r
 Action: |cffFF7000 |r
 
 Role: |cff00ffff |r

@@ -1,15 +1,15 @@
-|cffff00ffPhase One:|r
+|cff00ff00Phase One:|r
 
 |cffff7c0aKill|r all the adds.
 |cffff7c0aStand in the shield|r from a shield add when the boss gets to full energy and casts (Exposed Core).
 |cffff7c0aPick up each bomb|r that drops from each shield add when they die, take them to {square}, and throw them at him with your extra-action button.
 
-|cffff00ffPhase Two (40%):|r
+|cff00ff00Phase Two (40%):|r
 
 {tank} |cff00ffffTanks|r face the boss away and taunt swap every time the boss gets to 50 energy and casts |cffffff00Pneumatic Impact.|r
 If you get the Matter Dissolution debuff, run out of the raid until it expires. 
 |cffff7c0aDodge|r the orbs from these players.
 
-|cffff00ffPhase Three (15%):
+|cff00ff00Phase Three (15%):
 |r
 Use {spell:2825} |cffff7c0aBloodlust/Heroism|r and kill the boss.

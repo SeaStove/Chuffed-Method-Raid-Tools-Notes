@@ -1,4 +1,4 @@
-|cffff00ffPhase One:|r
+|cff00ff00Phase One:|r
 
 {tank} |cff00ffffTanks|r need to |cffff7c0ataunt swap|r after every |cffffff00Soul Fracture|r cast, everyone|cffff7c0a interrupt|r and |cffff7c0akill the soul adds|r that spawn, and |cff00ffffthe fractured tank|r needs to run over each of the soul adds after they die in order to remove their debuff, |cffffff00Soul Exhaustion.|r
 |cffff7c0aPut the silence circles on the soul adds|r to help interrupt them |cffffff00(Oblivion's Echo).|r 
@@ -8,13 +8,13 @@
 |cffff7c0aAoE stun, kill, and stay away|r from the small adds when they are all resurrected |cffee5555Dark Evocation.|r
 |cffff7c0aStay out of the frost patches |ron the ground during |cffffff00Howling Blizzard.
 |r
-|cffff00ffPhase Two:|r
+|cff00ff00Phase Two:|r
 
 |cffff7c0aSend assigned players into the phylactery|r to do enough of the soul remnant's health in order to interrupt Kel'Thuzad's raid-wiping cast, |cffffff00Vengeful Destruction,|r while the rest of the raid |cffff7c0astays out|r and |cffff7c0adeals with adds|r |cffffff00(March of the Forsaken).|r
 In the phylactery, |cffff7c0adodge the swirlies|r|r on the ground |cffffff00(Shadow Fissure)|r and the randomly facing frontal |cffffff00(Freezing Blast).|r 
 Outside, have each {tank} |cff00fffftank |r|cffff7c0apick up an abomination|r add and |cffff7c0atank them together|r, while everyone |cffff7c0adodges their randomly facing frontals|r |cffffff00(Demolish). |r
 
-|cffff00ffPhase Three:|r
+|cff00ff00Phase Three:|r
 
 |cffff7c0aBloodlust|r now.
 |cffff7c0aStay out|r of the ice patches as long as possible |cffffff00(Deep Freeze).|r

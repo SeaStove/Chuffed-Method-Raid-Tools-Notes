@@ -1,11 +1,11 @@
-|cffff00ffPhase One:|r
+|cff00ff00Phase One:|r
 • Two players get |cffff7c0amarked to drop portals|r |cff00ffff(tank and a random other player).|r |cff00ffffTank|r go to the side, |cff00ffffother|r go to the {square} in the middle.
 • |cffff7c0aJump|r in the portals to avoid the rings.
 • {tank} |cff00ffffTank:|r when you get |cffffff00Glyph of Relocation|r, run towards away from the raid towards a portal so the |cff00ffffrest of the raid|r can |cffff7c0ajump in|r it after they're pulled.
 • If you get targetted with |cffffff00Stasis trap|r, try and clump them near other traps.
 • |cffff7c0aBloodlust|r when AFTER the second phase two (boss is at 50%).
 
-|cffff00ffPhase Two (75% and 50%):|r
+|cff00ff00Phase Two (75% and 50%):|r
 • {tank} |cff00ffffTanks|r pick up all the adds and face them away from the raid.
 • |cffff7c0aNuke|r the |cffc41e3aAcolytes|r.
 • |cffff7c0aInterrupt|r the |cffc41e3aSpellslingers|r as much as possible.
