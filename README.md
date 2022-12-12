@@ -16,7 +16,16 @@ A couple things to note:
 2. Each boss has a folder that contains All Roles, Heroic, or Normal notes. Heroic and Normal notes change dynamically depending on your class / role. So if you are a healer you will see extra notes for healers, if you are DPS you won't see Tank notes, etc. If you want to see all the notes regardless of your role, choose the "All Roles" file.
 3. AFAIK there isn't a good way to mass import notes to MRT. You will have to copy paste in each one. (PS if the authors of MRT happen to see this I'd love to help code some features in the notes section!!)
 4. Raszageth doesn't have guides yet, as soon as a good strategy is developed I'll add in notes for it.
-5. If you have any suggestions for if the guides are wrong in any way, I'd really appreciate it if you made an "Issue" in Github! Or a pull request with the fix would be even nicer.
+5. If you have any suggestions or if the guides are wrong in any way, I'd really appreciate it if you made an "Issue" in Github! Or a pull request with the fix would be even nicer.
+
+COLOR SCHEME:
+
+- GREEN: Phase
+- ORANGE: Player Action
+- YELLOW: Boss Ability
+- PURPLE: Enemy
+- TEAL: Role
+- RED: Difficulty
 
 HUGE SHOUTOUT to the following resources used as inspiration and research for these notes:
 
