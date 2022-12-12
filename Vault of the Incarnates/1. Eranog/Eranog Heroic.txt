@@ -3,7 +3,7 @@
 |cffFF7000MOVE AWAY TOGETHER |rto drop |cffffff00Flamerift|r pools.
 |cffFF7000STACK AND NUKE |radds on the boss.
 |cffFF7000DODGE |rcleave.
-|cffc41e3aHeroic:|r |cffFF7000DODGE|r |cffffff00Molten Spikes|r and avoid the fire pools that spawn after |cffffff00Incinerating Roar|r.
+|cffc41e3aHeroic:|r |cffFF7000DODGE|r |cffffff00Molten Spikes|r and |cffFF7000AVOID|r the fire pools that spawn after |cffffff00Incinerating Roar|r.
 {H}{healer}|cff00ffffHealers:|r |cffffff00Incinerating Roar|r deals big damage / dot{/H}
 {T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r on ~5 stacks of |cffffff00Burning Wound|r or when the debuff drops off.{/T}
 
