@@ -1,13 +1,14 @@
-|cff00ff00PHASE 1:|r
+{p1}|cff00ff00PHASE 1:|r
 |cffFF7000BLOODLUST|r {spell:2825} on pull.
 |cffFF7000AVOID|r |cffffff00Raging Burst|r tornado.
 |cffFF7000RUN AWAY|r from |cffffff00Cyclone|r pull.
 |cffFF7000SPREAD|r for |cffffff00Conductive Mark|r and |cffFF7000WAIT|r for the debuff to time out.
-{T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after 2-3 stacks of |cffffff00Zephyr Slam|r.{/T}
+{T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after 2-3 stacks of |cffffff00Zephyr Slam|r.{/T}{/p}
 
-|cff00ff00PHASE 2 (100 Energy):|r
+{p2}|cff00ff00PHASE 2 (100 Energy):|r
 |cffFF7000INTERRUPT|r |cffffff00Diverted Essence|r from the |cffa330c9Volatile Infuser|r.
 |cffFF7000POSITION AND STAND BETWEEN|r the |cffa330c9Volatile Infuser|r and the outside platform with an add.
 |cffFF7000KILL|r the |cffa330c9Volatile Infuser|r and it will knock you back to the platform to fight adds.
 
 |cffc41e3aHeroic:|r Designate half the raid to go to the platform each time, they cannot go twice in a row.
+{/p}

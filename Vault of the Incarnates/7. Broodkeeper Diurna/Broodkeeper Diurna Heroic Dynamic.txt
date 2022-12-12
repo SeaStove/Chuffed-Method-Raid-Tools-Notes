@@ -1,4 +1,4 @@
-|cff00ff00PHASE 1 (Add Phase):|r
+{p2}{p1}|cff00ff00PHASE 1 (Add Phase):|r
 |cffFF7000FOCUS KILLING ADDS.|r
 |cffa330c9Flamebenders > Juveniles > Stormbringers > Earthreavers > Mages > Legionnaires.|r
 
@@ -15,4 +15,4 @@
 |cffFF7000BLOODLUST|r {spell:2825} now.
 |cffFF7000ATTACK|r players with |cffffff00Frozen Shroud.|r
 |cffffff00Greatstaff's Wrath|r is now random, |cffFF7000RUN IT THROUGH|r remaining eggs.
-{T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after every stack of |cffffff00Mortal Stoneclaws.|r{/T}
+{T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after every stack of |cffffff00Mortal Stoneclaws.|r{/T}{/p}{/p}

@@ -1,15 +1,15 @@
-|cffFF7000BLOODLUST|r {spell:2825} on the pull.
+|cffFF7000BLOODLUST|r {spell:2825} on pull.
 |cffFF7000KILL|r all bosses at the same time.
 |cffFF7000INTERRUPT|r |cffa330c9Kadros Icewrath|r and |cffa330c9Dathea Stormlash|r to help group them.
 |cffFF7000DODGE|r the |cffffff00Earthen Pillar|r spawns.
 |cffFF7000SPREAD|r with |cffffff00Conductive Mark|r. |cffFF7000RUN|r into an |cffffff00Earthen Pillar|r to clear it.
 |cffFF7000SOAK|r |cffffff00Meteor Axes|r as a group, two axes - one |cff00ffffmelee|r and one |cff00ffffranged|r.
-During |cffffff00Primal Blizzard|r, |cffFF7000DIP IN ONCE|r to the |cffffff00Scorched Ground|r pools left behind from |cffffff00Meteor Axes|r.
+During |cffffff00Primal Blizzard|r, |cffFF7000DIP IN ONCE|r to the |cffffff00Scorched Ground|r pools from |cffffff00Meteor Axes|r.
 
 |cff00ffff{Warrior}Melee Players:|r |cffFF7000AVOID|r |cffffff00Slashing Blaze|r cone from |cffa330c9Embar Firepath|r to the tank.
 
 |cff00ffff{Hunter}Ranged Players:|r |cffFF7000CLUMP|r with other targetted players on |cffffff00Earthen Pillar|r casts.
 |cff00ffff{Hunter}Ranged Players:|r |cffFF7000STAND ON|r |cffffff00Earthen Pillars|r when targeted with |cffffff00Meteor Axes|r.
 
-{tank}|cff00ffffTanks:|r Ensure |cffffff00Slashing Blaze|r is |cffFF7000POINTED AWAY|r from other players.
+{tank}|cff00ffffTanks:|r Ensure |cffa330c9Embar Firepath's|r |cffffff00Slashing Blaze|r is |cffFF7000POINTED AWAY|r from other players.
 {tank}|cff00ffffTanks:|r |cffFF7000SWAP|r tanking duties on |cffa330c9Opalfang|r and |cffa330c9Embar Firepath|r after each cast of |cffffff00Crush|r.

@@ -1,10 +1,10 @@
-|cff00ff00PHASE 1:|r
-|cffFF7000BLOODLUST|r {spell:2825} on the pull.
+{p1}|cff00ff00PHASE 1:|r
+|cffFF7000BLOODLUST|r {spell:2825} on pull.
 |cffFF7000MOVE AWAY TOGETHER |rto drop |cffffff00Flamerift|r pools.
 |cffFF7000STACK AND NUKE |radds on the boss.
 |cffFF7000DODGE |rcleave.
 {H}{healer}|cff00ffffHealers:|r |cffffff00Incinerating Roar|r deals big damage / dot{/H}
-{T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r on ~5 stacks of |cffffff00Burning Wound|r or when the debuff drops off.{/T}
+{T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r on ~5 stacks of |cffffff00Burning Wound|r or when the debuff drops off.{/T}{/p}
 
-|cff00ff00PHASE 2:|r
-|cffFF7000KILL |r{skull} Skull |cffa330c9elemental|r.
+{p2}|cff00ff00PHASE 2:|r
+|cffFF7000KILL |r{skull} Skull |cffa330c9elemental|r.{/p}

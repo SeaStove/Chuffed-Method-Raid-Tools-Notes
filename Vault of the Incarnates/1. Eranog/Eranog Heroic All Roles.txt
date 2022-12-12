@@ -1,5 +1,5 @@
 |cff00ff00PHASE 1:|r
-|cffFF7000BLOODLUST|r {spell:2825} on the pull.
+|cffFF7000BLOODLUST|r {spell:2825} on pull.
 |cffFF7000MOVE AWAY TOGETHER |rto drop |cffffff00Flamerift|r pools.
 |cffFF7000STACK AND NUKE |radds on the boss.
 |cffFF7000DODGE |rcleave.

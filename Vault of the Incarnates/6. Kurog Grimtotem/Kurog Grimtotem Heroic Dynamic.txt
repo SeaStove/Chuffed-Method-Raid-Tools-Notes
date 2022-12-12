@@ -1,4 +1,4 @@
-|cff00ff00PHASE 1:|r
+{p1}{p3}|cff00ff00PHASE 1:|r
 |cffa330c9Kurog|r will gain abilities based on the altar you bring him to.
 
 |cffa330c9Fire Altar|r:
@@ -20,15 +20,16 @@
 {T}
 {tank}|cff00ffffTanks:|r |cffFF7000FACE AWAY|r the boss from the raid.
 {tank}|cff00ffffTanks:|r |cffFF7000SWAP|r on each |cffffff00Sundering Strike|r frontal cone cast.
-{/T}
-|cff00ff00PHASE 2 (66% and 33%):|r
+{/T}{/p}{/p}
+{p2}|cff00ff00PHASE 2 (66% and 33%):|r
 |cffFF7000KILL|r the |cffa330c9elementals|r.
 |cffa330c9Fire Elemental|r: |cffFF7000AVOID|r pools of lava. |cffc41e3aHEROIC:|r |cffFF7000INTERRUPT|r and |cffFF7000KILL|r adds.
 |cffa330c9Frost Elemental|r: |cffFF7000INTERRUPT|r |cffffff00Frost Binds|r, |cffFF7000STACK ON IT|r for |cffffff00Freezing Tempest|r.
 |cffa330c9Earth Elemental|r: |cffFF7000MOVE AWAY|r from |cffffff00Ground Shatter|r, avoid subsequent eruption.
 |cffa330c9Storm Elemental|r: |cffFF7000MOVE AWAY|r from |cffffff00Lethal Current|r.
-
+{/p}
+{p3}
 |cff00ff00PHASE 3 (After two cycles of P1 and P2):|r
 |cffFF7000BLOODLUST|r {spell:2825} and kill.
 |cffa330c9Kurog|r has all of his abilities.
-
+{/p}
