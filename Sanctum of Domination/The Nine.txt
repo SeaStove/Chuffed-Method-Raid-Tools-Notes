@@ -5,13 +5,13 @@ React to the |cffffff00Call of the Val'kyr|r mechanics: |cffff7c0adodge|r lines 
 |cff00ff00Phase One:|r
 
 |cffff7c0aDamage|r the two bosses at the same rate so they are both low for phase two.
-{tank} |cff00ffffTanks|r: |cffff7c0ataunt swap|r on |cffee5555Kyra|r at as low stacks of |cffffff00Unending Strike|r as possible.
+{tank} |cff00ffffTanks|r: |cffff7c0ataunt swap|r on |cffc41e3aKyra|r at as low stacks of |cffffff00Unending Strike|r as possible.
 {tank} |cff00ffffTank:|r |cffff7c0ainterrupt|r, and |cffff7c0akill|r the add that spawns occasionally. |cff3fc7ebDeath Grip|r |rinto|cff3fc7eb Solar Beam|r a really good combo for this add.
-|cffff7c0aInterrupt|r |cffee5555Signe's|r |cffffff00Song of Dissolution|r channel as soon as possible. Her other cast is much less important |cffffff00(Soulful Blast).|r
+|cffff7c0aInterrupt|r |cffc41e3aSigne's|r |cffffff00Song of Dissolution|r channel as soon as possible. Her other cast is much less important |cffffff00(Soulful Blast).|r
 
-|cffff7c0aRun away|r from |cffee5555Kyra|r when she pulls you in |cffffff00(Wings of Rage), |rand run toward|cffee5555 Signe|r when she pushes you away |cffffff00(Reverberating Refrain).|r
+|cffff7c0aRun away|r from |cffc41e3aKyra|r when she pulls you in |cffffff00(Wings of Rage), |rand run toward|cffc41e3a Signe|r when she pushes you away |cffffff00(Reverberating Refrain).|r
 
 |cff00ff00Phase Two:|r
 
 When you get the |cffffff00Fragments of Destiny|r debuff, |cffff7c0amove off|r to the side of the raid with the other people that have the debuff, |cffff7c0aget dispelled|r by the healers, and |cffff7c0athen move away|r once you have been dispelled. The goal is to get all of the debuffs onto one person to remove them from the fight.
-{tank} |cff00ffffTanks|r: |cffff7c0ataunt swap|r on |cffee5555Skyja|r at as low stacks of |cffffff00Pierce Soul|r as possible.
+{tank} |cff00ffffTanks|r: |cffff7c0ataunt swap|r on |cffc41e3aSkyja|r at as low stacks of |cffffff00Pierce Soul|r as possible.

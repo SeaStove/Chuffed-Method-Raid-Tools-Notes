@@ -9,18 +9,18 @@ If you |cff00ff00have |ra |cffffff00Barbed Arrow|r debuff, |cffff7c0amove close 
 
 |cff00ff00In the intermission:|r
 
-Quickly |cffff7c0akill|r all of the arrows,|r |cffff7c0adodge|r the lines on the ground |cffffff00(Rive)|r, and spread out when |cffee5555Sylvanas|r casts |cffffff00Banshee Wail.|r
+Quickly |cffff7c0akill|r all of the arrows,|r |cffff7c0adodge|r the lines on the ground |cffffff00(Rive)|r, and spread out when |cffc41e3aSylvanas|r casts |cffffff00Banshee Wail.|r
 
 |cff00ff00Phase Two:|r
 
-|cffff7c0aDodge the dark waves|r from |cffee5555Sylvanas|r when she is in banshee form|cffffff00 (Haunting Wave)|r, and |cffff7c0ainterrupt|r her |cffffff00Ruin|r cast at all costs.
-Focus |cffff7c0akill|r the |cffee5555Mawsworm Souljudge, Goliath, and Summoner|r adds to progress through the phase.
+|cffff7c0aDodge the dark waves|r from |cffc41e3aSylvanas|r when she is in banshee form|cffffff00 (Haunting Wave)|r, and |cffff7c0ainterrupt|r her |cffffff00Ruin|r cast at all costs.
+Focus |cffff7c0akill|r the |cffc41e3aMawsworm Souljudge, Goliath, and Summoner|r adds to progress through the phase.
 
-{healer} |cff00ffffHealer:|r Frequently |cffff7c0adispel|r the |cffffff00Crushing Dread|r debuff from |cffee5555Souljudges|r. 
+{healer} |cff00ffffHealer:|r Frequently |cffff7c0adispel|r the |cffffff00Crushing Dread|r debuff from |cffc41e3aSouljudges|r. 
 
-{tank} |cff00ffffTanks:|r Frequently |cffff7c0ataunt swap|r on the |cffee5555Goliaths|r |cffffff00(Fury)|r. 
+{tank} |cff00ffffTanks:|r Frequently |cffff7c0ataunt swap|r on the |cffc41e3aGoliaths|r |cffffff00(Fury)|r. 
 
-Quickly|cffff7c0a kill the orbs|r spawned by the |cffee5555Summoners|r |cffffff00(Detonati)|r The other adds are not important.
+Quickly|cffff7c0a kill the orbs|r spawned by the |cffc41e3aSummoners|r |cffffff00(Detonati)|r The other adds are not important.
 
 |cff00ff00Phase Three:|r
 
@@ -29,4 +29,4 @@ Quickly|cffff7c0a kill the orbs|r spawned by the |cffee5555Summoners|r |cffffff0
 |cffff7c0aSpread out|r and try to be at high health when everyone gets circles around them from |cffffff00Banshee Scream.|r
 
 If you get |cff00ffffmarked with a purple arrow|r, |cffff7c0ajump to another platform|r, |cffff7c0alet it expire|r, and then quickly |cffff7c0ajump back|r |cffffff00(Wailing Arrow).|r
-And|cffff7c0a jump|r to another platform before |cffee5555Sylvanas|r|r finishes casting |cffffff00Raze|r, which destroys the platform she is on.
+And|cffff7c0a jump|r to another platform before |cffc41e3aSylvanas|r|r finishes casting |cffffff00Raze|r, which destroys the platform she is on.

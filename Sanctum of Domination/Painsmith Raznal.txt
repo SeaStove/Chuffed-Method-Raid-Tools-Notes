@@ -1,6 +1,6 @@
 |cff00ff00Phase One:|r|r|r
 
-|cffff7c0aFocus kill|r the |cffee5555middle spiked ball|r and |cffff7c0arun through the gap to survive|r |cffffff00(Spiked Balls).|r
+|cffff7c0aFocus kill|r the |cffc41e3amiddle spiked ball|r and |cffff7c0arun through the gap to survive|r |cffffff00(Spiked Balls).|r
 |cffff7c0aSpread out with the chains|r and try not to run into other people if you have them |cffffff00(Shadowsteel Chains).|r
 {tank} |cff00ffffTanks|r quickly run the boss's weapon-throw cast to a corner of the room and taunt swap after every cast |cffffff00(Cruciform Axe).|r
 |cffff7c0aEveryone dodge|r the spikes that come from the {tank} |cff00fffftank |rgetting hit by the weapon |cffffff00(Spiked).|r

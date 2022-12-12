@@ -9,13 +9,12 @@
 |cffFF7000USE A MOVEMENT ABILITY|r or |cffFF7000STAND IN|r |cffffff00Sticky Webbing|r to avoid being pulled off by |cffffff00Gossamer Burst|r.
 |cffFF7000DON'T STAND IN|r |cffffff00Sticky Webbing|r too long (10 stacks) or you get stunned by |cffffff00Wrapped in Webs|r.
 If a player is |cffffff00Wrapped in Webs|r, |cffFF7000DRAG AND KILL|r a |cffa330c9Caustic Spiderling|r near them. 
-
-|cff00ff00PHASE 2 (Top of the Boss Room):|r
-|cffFF7000AVOID|r bombs dropped by |cffffff00Chilling Blast|r.
-|cffffff00Gossamer Burst|r is now |cffffff00Repelling Burst|r, which pushes you away.
-|cffffff00Enveloping Webs|r now knocks back and causes |cffffff00Wrapped in Webs|r at the end of it's duration.
 {T}
 {tank}|cff00ffffTanks:|r |cffFF7000FACE AWAY|r |cffa330c9Frostbreath Arachnids|r from the raid to ensure their |cffffff00Freezing Breath|r does not cover the room.
 {tank}|cff00ffffTanks:|r |cffFF7000SWAP|r on 9-10 stacks of |cffffff00Web Blast|r.
 {tank}|cff00ffffTanks:|r When not tanking |cffa330c9Sennarth|r, |cffFF7000DRAG AND KILL|r |cffa330c9Caustic Spiderlings|r on |cffffff00Wrapped in Webs|r players.
 {/T}
+|cff00ff00PHASE 2 (Top of the Boss Room):|r
+|cffFF7000AVOID|r bombs dropped by |cffffff00Chilling Blast|r.
+|cffffff00Gossamer Burst|r is now |cffffff00Repelling Burst|r, which pushes you away.
+|cffffff00Enveloping Webs|r now knocks back and causes |cffffff00Wrapped in Webs|r at the end of it's duration.

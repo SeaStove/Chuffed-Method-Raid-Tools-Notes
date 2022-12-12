@@ -1,0 +1,18 @@
+|cff00ff00PHASE 1 (Add Phase):|r
+|cffFF7000FOCUS KILLING ADDS.|r
+|cffa330c9Flamebenders > Juveniles > Stormbringers > Earthreavers > Mages > Legionnaires.|r
+
+|cffFF7000DODGE|r |cffffff00Wildfire.|r |cffc41e3aHeroic:|r |cffFF7000SPREAD|r for |cffffff00Wildfire.|r
+|cffFF7000INTERRUPT|r |cffa330c9Mages|r and |cffa330c9Stormbringers.|r
+|cffFF7000SPREAD|r with |cffffff00Ionizing Charge.|r 
+
+|cff00ffffEGG BREAKERS|r - |cffFF7000USE SPECIAL ACTION BUTTON|r{spell:388643} near the boss's staff to |cffFF7000RUN THROUGH|r eggs with the beam that is cast on you.
+{healer}|cff00ffffHealers:|r |cffFF7000HEAL|r or |cffFF7000DISPEL|r |cffffff00Icy Shroud.|r
+{tank}|cff00ffffBoss Tank:|r |cffFF7000MOVE|r |cffa330c9Broodkeeper|r between two eggs at all times. |cffFF7000USE CDS|r during |cffffff00Mortal Stoneclaws.|r |cffFF7000AVOID|r adds that spawn in the room.
+{tank}|cff00ffffAdd Tank:|r |cffFF7000GROUP|r adds away from the boss. |cffFF7000FACE AWAY|r adds from the raid. 
+
+|cff00ff00PHASE 2 (5 minutes or all eggs broken):|r
+|cffFF7000BLOODLUST|r {spell:2825} now.
+|cffFF7000ATTACK|r players with |cffffff00Frozen Shroud.|r
+|cffffff00Greatstaff's Wrath|r is now random, |cffFF7000RUN IT THROUGH|r remaining eggs.
+{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after every stack of |cffffff00Mortal Stoneclaws.|r

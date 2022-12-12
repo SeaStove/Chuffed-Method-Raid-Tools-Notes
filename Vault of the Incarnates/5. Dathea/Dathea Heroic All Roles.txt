@@ -10,4 +10,4 @@
 |cffFF7000POSITION AND STAND BETWEEN|r the |cffa330c9Volatile Infuser|r and the outside platform with an add.
 |cffFF7000KILL|r the |cffa330c9Volatile Infuser|r and it will knock you back to the platform to fight adds.
 
-|cff88ee88Heroic:|r Designate half the raid to go to the platform each time, they cannot go twice in a row.
+|cffc41e3aHeroic:|r Designate half the raid to go to the platform each time, they cannot go twice in a row.

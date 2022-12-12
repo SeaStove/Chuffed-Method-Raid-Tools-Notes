@@ -7,7 +7,6 @@
 
 |cffa330c9Frost Altar|r:
 |cffFF7000SOAK|r |cffffff00Absolute Zero|r as two groups. |cff00ffffMelee|r and |cff00ffffRanged|r.
-|cffc41e3aHEROIC: |r|cffFF7000DODGE|r projectiles.
 
 |cffa330c9Earth Altar|r:
 |cffFF7000DODGE|r |cffffff00Erupting Bedrock|r ripple.
@@ -16,14 +15,13 @@
 |cffa330c9Storm Altar|r:
 |cffFF7000SOAK|r |cffffff00Thunder Strike|r individually.
 |cffFF7000SPREAD|r with |cffffff00Shocking Burst|r.
-|cffc41e3aHEROIC: |r|cffffff00Lightning Crash|r hits your closest ally, spread the love.
-
+{T}
 {tank}|cff00ffffTanks:|r |cffFF7000FACE AWAY|r the boss from the raid.
 {tank}|cff00ffffTanks:|r |cffFF7000SWAP|r on each |cffffff00Sundering Strike|r frontal cone cast.
-
+{/T}
 |cff00ff00PHASE 2 (100 Energy):|r
 |cffFF7000KILL|r the |cffa330c9elementals|r.
-|cffa330c9Fire Elemental|r: |cffFF7000AVOID|r pools of lava. |cffc41e3aHEROIC:|r |cffFF7000INTERRUPT|r and |cffFF7000KILL|r adds.
+|cffa330c9Fire Elemental|r: |cffFF7000AVOID|r pools of lava.
 |cffa330c9Frost Elemental|r: |cffFF7000INTERRUPT|r |cffffff00Frost Binds|r, |cffFF7000STACK ON IT|r for |cffffff00Freezing Tempest|r.
 |cffa330c9Earth Elemental|r: |cffFF7000MOVE AWAY|r from |cffffff00Ground Shatter|r, avoid subsequent eruption.
 |cffa330c9Storm Elemental|r: |cffFF7000MOVE AWAY|r from |cffffff00Lethal Current|r.

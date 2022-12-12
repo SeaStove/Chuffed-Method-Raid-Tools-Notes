@@ -3,7 +3,7 @@ Color Change: |cffRRGGBB...|r
 Phase: |cff00ff00 |r
 |cff00ff00PHASE 1:|r
 
-Difficulty: |cff88ee88 |r
+Difficulty: |cffc41e3a |r
 
 Enemy: |cffa330c9 |r
 Enemy Move: |cffffff00 |r

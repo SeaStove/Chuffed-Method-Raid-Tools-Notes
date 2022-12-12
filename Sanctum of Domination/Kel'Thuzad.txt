@@ -5,7 +5,7 @@
 |cffff7c0aSlow, kill, and stay away |rfrom the small adds that spawn from the circles |cffffff00(Relentless Haunt).|r
 |cffff7c0aStagger|r killing the |cffffff00Glacial Spike|r adds to spread out the raid damage they do when they die |cffffff00(Frozen Destruction).|r
 |cffff7c0aGroup soak the big swirly|r on a random player |cffffff00(Frost Blast)|r, and {healer} |cffff7c0adispel|r the root on everyone it hits |cffffff00(Frozen Binds).|r |cff00ff98Mass Dispel|r is great for this.
-|cffff7c0aAoE stun, kill, and stay away|r from the small adds when they are all resurrected |cffee5555Dark Evocation.|r
+|cffff7c0aAoE stun, kill, and stay away|r from the small adds when they are all resurrected |cffc41e3aDark Evocation.|r
 |cffff7c0aStay out of the frost patches |ron the ground during |cffffff00Howling Blizzard.
 |r
 |cff00ff00Phase Two:|r
