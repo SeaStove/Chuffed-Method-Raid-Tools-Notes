@@ -19,7 +19,7 @@
 {tank}|cff00ffffTanks:|r |cffFF7000FACE AWAY|r the boss from the raid.
 {tank}|cff00ffffTanks:|r |cffFF7000SWAP|r on each |cffffff00Sundering Strike|r frontal cone cast.
 {/T}
-|cff00ff00PHASE 2 (100 Energy):|r
+|cff00ff00PHASE 2 (66% and 33%):|r
 |cffFF7000KILL|r the |cffa330c9elementals|r.
 |cffa330c9Fire Elemental|r: |cffFF7000AVOID|r pools of lava.
 |cffa330c9Frost Elemental|r: |cffFF7000INTERRUPT|r |cffffff00Frost Binds|r, |cffFF7000STACK ON IT|r for |cffffff00Freezing Tempest|r.
