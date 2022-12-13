@@ -7,8 +7,8 @@
 
 |cff00ff00PHASE 2 (100 Energy):|r
 |cffFF7000INTERRUPT|r |cffffff00Diverted Essence|r from the |cffa330c9Volatile Infuser|r.
-|cffFF7000POSITION AND STAND BETWEEN|r the |cffa330c9Volatile Infuser|r and the outside platform with an add.
-|cffFF7000KILL|r the |cffa330c9Volatile Infuser|r and it will knock you to the platform.
-|cffFF7000KILL|r the adds on the platform, the |cffa330c9Volatile Infuser|r last to get back.
+|cffc41e3aHeroic:|r |cffFF7000POSITION AND STAND BETWEEN|r the |cffa330c9Volatile Infuser|r and the outside platform with an add.
+|cffc41e3aHeroic:|r |cffFF7000KILL|r the |cffa330c9Volatile Infuser|r and it will knock you to the platform.
+|cffc41e3aHeroic:|r |cff00ffffGroups 1, 3, 5|r go first, next time |cff00ffffGroups 2, 4, 6|r go, and so on.
+|cffc41e3aHeroic:|r |cffFF7000KILL|r the adds on the platform, the |cffa330c9Volatile Infuser|r last to get back.
 
-|cffc41e3aHeroic:|r Designate half the raid to go to the platform each time, they cannot go twice in a row.
