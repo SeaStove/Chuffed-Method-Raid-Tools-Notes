@@ -6,6 +6,6 @@
 {T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after 2-3 stacks of |cffffff00Zephyr Slam|r.{/T}{/p}
 
 {p2}|cff00ff00PHASE 2 (100 Energy):|r
-|cffFF7000INTERRUPT|r |cffffff00Diverted Essence|r from the |cffa330c9Volatile Infuser|r.
-|cffFF7000POSITION AND STAND BETWEEN|r the |cffa330c9Volatile Infuser|r and the outside platform with an add.
-|cffFF7000KILL|r the |cffa330c9Volatile Infuser|r and it will knock you back to the platform to fight adds.{/p}
+|cffFF7000INTERRUPT|r and |cffFF7000KILL|r the |cffa330c9Volatile Infuser|r.
+|cffa330c9Volatile Infuser|r knocks back when it dies, |cffFF7000POSITION|r accordingly.
+{/p}
