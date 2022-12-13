@@ -1,8 +1,8 @@
 |cffFF7000BLOODLUST|r {spell:2825} on pull.
 |cffFF7000SOAK|r |cffffff00Rock Blast|r
 |cffFF7000MAKE LINE|r towards |cffa330c9Terros|r if marked with |cffffff00Awakened Earth.|r
-|cff00ffff{Hunter}Ranged Players:|r |cffFF7000MAKE LINE ON LEFT|r inside of circle during |cffffff00Rock Blast|r.
-|cff00ffff{Warrior}Melee Players:|r |cffFF7000MAKE LINE ON RIGHT|r inside of circle during |cffffff00Rock Blast|r.
+|cff00ffffGroups 1, 3, 5:|r |cffFF7000MAKE LINE ON LEFT|r inside of circle during |cffffff00Rock Blast|r.
+|cff00ffffGroups 2, 4, 6:|r |cffFF7000MAKE LINE ON RIGHT|r inside of circle during |cffffff00Rock Blast|r.
 |cffFF7000DODGE|r the swirlies.
 |cffFF7000ROTATE CLOCKWISE|r around |cffa330c9Terros|r when he's at |cffffff00100 Energy|r and casts |cffffff00Resonating Annihilation.|r
 
