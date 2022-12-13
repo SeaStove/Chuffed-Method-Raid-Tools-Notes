@@ -2,13 +2,12 @@
 |cffFF7000SPREAD|r with circles, |cffFF7000INTERRUPT|r or |cffFF7000DISPEL|r the add that spawns.
 |cffFF7000RUN AWAY|r with |cffffff00Static Charge|r debuff.
 |cffFF7000RUN AGAINST|r pushback from boss at 100 energy.
-{T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after every |cffffff00Electrified Jaws|r.{/T}
+{T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after every |cffffff00Electrified Jaws|r.{/T}{/p}
 
-|cff00ff00INTERMISSION 1 (70%):|r
+{p1.5}|cff00ff00INTERMISSION 1 (70%):|r
 {g135}|cff00ffffGroups 1, 3, 5|r |cffFF7000GO BLUE PLATFORM {square}, KILL ADDS.|r{/g}
 {g246}|cff00ffffGroups 2, 4, 6|r |cffFF7000GO RED PLATFORM {cross}, KILL ADDS.|r{/g}
-|cffFF7000FOCUS|r |cffa330c9Ruiners|r, |cffFF7000INTERRUPT|r |cffa330c9Acolytes|r.
-{/p}
+|cffFF7000FOCUS|r |cffa330c9Ruiners|r, |cffFF7000INTERRUPT|r |cffa330c9Acolytes|r.{/p}
 
 {p2}|cff00ff00PHASE 2:|r
 |cffFF7000STACK|r with same charge players ({spell:391990} or {spell:28084}), |cffFF7000AVOID|r opposite.
@@ -16,9 +15,9 @@
 |cffFF7000RUN AWAY|r with |cffffff00Fulminating Charge|r, it jumps to nearest player, don't get it twice.
 |cffFF7000RUN THROUGH|r the ring that expands form the boss.
 |cffFF7000INTERRUPT|r or |cffFF7000DISPEL|r |cffa330c9adds|r.
-{T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after every |cffffff00Electrified Jaws|r.{/T}
+{T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after every |cffffff00Electrified Jaws|r.{/T}{/p}
 
-|cff00ff00INTERMISSION 2:|r
+{p2.5}|cff00ff00INTERMISSION 2:|r
 |cffFF7000SLOW AND KILL|r |cffa330c9small adds|r that come after |cffa330c9big add|r teleports.
 |cffFF7000DODGE|r lightning orbs.{/p}
 
