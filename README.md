@@ -1,4 +1,6 @@
-Gallery with examples here: https://imgur.com/gallery/82cnpSF
+[Gallery with examples here](https://imgur.com/gallery/82cnpSF)
+
+[How to add a note](https://imgur.com/gallery/ejGGJtu)
 
 Bonjour! I'm Makepeace, raid leader of the guild \<Chuffed> on Moon Guard - US. Our guild is super new to raiding (just started in pre-patch), so we have love any resource we can get our hands on for learning. [Method Raid Tool's](https://www.curseforge.com/wow/addons/method-raid-tools) notes section has been huge for us, especially since the notes can be pasted to chat for pugs.
 
