@@ -1,4 +1,5 @@
 {p1}|cff00ff00PHASE 1:|r
+|cffFF7000BLOODLUST|r {spell:2825} on pull.
 |cffFF7000DODGE|r |cffffff00Lightning Breath|r cone from boss, aims at random player. 
 |cffFF7000SPREAD|r with circles, |cffFF7000INTERRUPT|r or |cffFF7000DISPEL|r the add that spawns.
 |cffFF7000RUN AWAY|r with |cffffff00Static Charge|r debuff.
@@ -6,7 +7,7 @@
 {T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after every |cffffff00Electrified Jaws|r.
 {tank}|cff00ffffTanks:|r Keep boss centered in room.{/T}{/p}
 
-{p1.5}|cff00ff00INTERMISSION 1 (70%):|r
+{p1.5}|cff00ff00INTERMISSION 1 (65%):|r
 {g135}|cff00ffffGroups 1, 3, 5|r |cffFF7000GO BLUE PLATFORM {square}, KILL ADDS.|r{/g}
 {g246}|cff00ffffGroups 2, 4, 6|r |cffFF7000GO RED PLATFORM {cross}, KILL ADDS.|r{/g}
 |cffFF7000STAND NEAR EDGE|r to get knocked over to your platform.

@@ -1,5 +1,5 @@
 {p1}{p3}|cff00ff00PHASE 1:|r
-|cffa330c9Kurog|r gaines abilities based on the altar you bring him to.
+|cffa330c9Kurog|r gains abilities based on the altar you bring him to.
 
 |cffa330c9Fire Altar|r:
 |cffFF7000DODGE|r fire pools.
