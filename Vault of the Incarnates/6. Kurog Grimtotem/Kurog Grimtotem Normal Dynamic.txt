@@ -1,4 +1,4 @@
-{p1}{p3}|cff00ff00PHASE 1:|r
+{p1}|cff00ff00PHASE 1:|r
 |cffa330c9Kurog|r gains abilities based on the altar you bring him to.
 
 |cffa330c9Fire Altar|r:
@@ -18,7 +18,7 @@
 {T}
 {tank}|cff00ffffTanks:|r |cffFF7000FACE AWAY|r the boss from the raid.
 {tank}|cff00ffffTanks:|r |cffFF7000SWAP|r on each |cffffff00Sundering Strike|r frontal cone cast.
-{tank}|cff00ffffTanks:|r |cffFF7000MOVE NEXT ALTAR|r |cffa330c9Kurog|r around 83% (first P1) or 50% HP (second P1).{/T}{/p}{/p}
+{tank}|cff00ffffTanks:|r |cffFF7000MOVE NEXT ALTAR|r |cffa330c9Kurog|r around 83% (first P1) or 50% HP (second P1).{/T}{/p}
 
 {p2}|cff00ff00PHASE 2 (66% and 33%):|r
 |cffFF7000KILL|r the |cffa330c9elementals|r.
