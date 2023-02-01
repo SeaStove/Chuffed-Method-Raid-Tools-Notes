@@ -7,5 +7,5 @@
 |cffFF7000ROTATE CLOCKWISE|r around |cffa330c9Terros|r when he's at |cffffff00100 Energy|r and casts |cffffff00Resonating Annihilation.|r
 
 {tank}|cff00ffffTanks:|r |cffFF7000AIM|r |cffffff00Concussive Slam|r at pillars. Dodge line if not tanking.
-{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after each cast of |cffffff00Concussive Slam|r.
+{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after 2 casts of |cffffff00Concussive Slam|r.
 {tank}|cff00ffffTanks:|r Always be in range of boss.

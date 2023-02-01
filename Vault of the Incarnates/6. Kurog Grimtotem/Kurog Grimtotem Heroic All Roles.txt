@@ -20,10 +20,10 @@
 
 {tank}|cff00ffffTanks:|r |cffFF7000FACE AWAY|r the boss from the raid.
 {tank}|cff00ffffTanks:|r |cffFF7000SWAP|r on each |cffffff00Sundering Strike|r frontal cone cast.
-{tank}|cff00ffffTanks:|r |cffFF7000MOVE NEXT ALTAR|r |cffa330c9Kurog|r around 83% (first P1) or 50% HP (second P1).
+{tank}|cff00ffffTanks:|r |cffFF7000MOVE NEXT ALTAR|r |cffa330c9Kurog|r around 50 energy.
 {tank}|cff00ffffTanks:|r |cffc41e3aHEROIC: |r|cffFF7000DO NOT MOVE|r |cffa330c9Kurog|r before |cffffff00Primal Shift|r debuff ends (20 seconds).
 
-|cff00ff00PHASE 2 (66% and 33%):|r
+|cff00ff00PHASE 2 (100 Energy):|r
 |cffFF7000KILL|r the |cffa330c9elementals|r.
 |cffa330c9Fire Elemental|r: |cffFF7000AVOID|r pools of lava. |cffc41e3aHEROIC:|r |cffFF7000INTERRUPT|r and |cffFF7000KILL|r adds.
 |cffa330c9Frost Elemental|r: |cffFF7000INTERRUPT|r |cffffff00Frost Binds|r, |cffFF7000STACK ON IT|r for |cffffff00Freezing Tempest|r.
