@@ -6,6 +6,8 @@
 {T}{tank}|cff00ffffTanks:|r |cffFF7000SWAP|r after 2-3 stacks of |cffffff00Zephyr Slam|r.{/T}{/p}
 
 {p2}|cff00ff00PHASE 2 (100 Energy):|r
-|cffFF7000INTERRUPT|r the |cffa330c9Volatile Infusers|r and DRAG them to the edge.
-KILL first one, get knocked back, RUN TO AND KILL second one, get knocked back.
+|cffFF7000INTERRUPT|r the |cffa330c9Volatile Infusers|r.
+|cffFF7000KILL|r first one, get knocked back, |cffFF7000RUN BACK AND KILL|r second one, get knocked back.
+{T}{tank}|cff00ffffTanks:|r Tank with lowest stacks (Tank 1) take {skull} Skull add away from boss, Tank 2 stays on boss and takes the other add. 
+After first add dies, Tank 1 takes boss, Tank 2 takes add away.{/T}
 {/p}
