@@ -2,7 +2,7 @@
 
 [How to add a note](https://imgur.com/gallery/ejGGJtu)
 
-Highly recommend using [MRT Notes](https://mrt-notes.vercel.app/playground) for any bulk note editing.
+Highly recommend using [MRT Notes website](https://mrt-notes.vercel.app/playground) for any bulk note editing.
 
 1. These are SUPER SIMPLIFIED and OPINIONATED notes. They are meant to give you a quick overview of what to do in the fight. Being opinionated saves a lot of space which is at a premium with onscreen notes. Them being opinionated also means they'll likely be updated / changed as the raid goes on as people discover more optimal strategies.
 2. Each boss has a folder that contains All Roles, Heroic, or Normal notes. Heroic and Normal notes change dynamically depending on your class / role. So if you are a healer you will see extra notes for healers, if you are DPS you won't see Tank notes, etc. If you want to see all the notes regardless of your role, choose the "All Roles" file.
