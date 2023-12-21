@@ -1,0 +1,15 @@
+{skull}|cffFF00FF  Gnarlroot|r  {skull}
+
+|cff00ff00PHASE 1:|r
+|cffc41e3aHeroic:|r |cffFF7000DODGE|r |cffffff00Flaming Pestilence|r swirlies. 
+|cffc41e3aHeroic:|r |cffFF7000DROP|r |cffffff00Controlled Burn|r on inactive |cffffff00Lashers|r and |cffFF7000KILL|r them.
+|cffFF7000DODGE|r {spell:422039} |cffffff00 Shadowflame Cleave|r  (frontal cone)
+|cffFF7000CLEAVE|r the |cffa330c9Tainted Lashers|r
+{T}{tank} |cffFF7000GROUP|r adds under the boss
+{tank} |cffFF7000SWAP|r after every {spell:424352} |cffffff00Dreadfire Barrage|r {/T}
+
+|cff00ff00PHASE 2 (at full energy):|r
+|cffc41e3aHeroic:|r |cffFF7000SOAK|r |cffffff00Ember-Charred|r and |cffFF7000BURN|r down Roots.
+
+|cffFF7000TOUCH|r all the roots to burn them. This removes Gnarlroot's immunity.
+{spell:2825} |cffFF7000BLOODLUST|r and |cffFF7000POP OFF|r after burning down Roots

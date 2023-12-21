@@ -1,0 +1,19 @@
+{skull}|cffFF00FF  Nymue, Weaver of the Cycle|r  {skull}
+
+|cff00ff00PRE-PULL:|r
+|cffFF7000SPLIT RAID|r into two groups
+|cffFF7000MINIMIZE|r crossing over smoky barriers
+
+|cff00ff00PHASE 1:|r
+|cffFF7000SOAK|r green circles
+|cffFF7000DODGE|r slow green lasers coming from boss
+{T}{tank} |cffFF7000SWAP|r after {spell:427722} |cffffff00Weaver's Burden|r
+{tank} |cffFF7000RUN OUT OF RAID|r with green circle
+{tank} |cffc41e3aHeroic:|r |cffFF7000DROP|r green circle as |cffFF7000FAR AS POSSIBLE|r{/T}
+
+|cff00ff00PHASE 2 (full energy):|r
+|cffFF7000SPLIT|r to go to your assigned |cffa330c9Cycle Warden|r
+|cffc41e3aHeroic:|r |cffFF7000SOAK|r small green circles, same as P1
+{T}{tank} |cffFF7000STAND IN|r Nymue's green circle |cffFF7000DURING PHASE CHANGE|r to get an immunity buff to smokey barriers. Your group should follow you.
+{tank} Each tank gets a |cffa330c9Cycle Warden|r
+{tank} |cffFF7000DO NOT MOVE|r a |cffa330c9Cycle Warden|r across a barrier{/T}

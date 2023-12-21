@@ -1,0 +1,23 @@
+{skull}|cffFF00FF  Larodar, Keeper of the Flame|r  {skull}
+
+|cff00ff00PHASE 1:|r
+|cffFF7000CLEAVE|r |cffa330c9Fiery Treants|r
+|cffc41e3aHeroic: |r|cffFF7000CLICK|r center seed and |cffFF7000AIM|r at |cffa330c9Scorching Brambles|r to make it targetable
+|cffFF7000KILL|r |cffa330c9Scorching Brambles|r
+|cffFF7000STAND IN|r {spell:419485} |cffffff00Nature's Bulwark|r  during {spell:417634} |cffffff00Raging Inferno|r 
+|cffFF7000CLICK|r center seed and |cffFF7000AIM|r {spell:425249} |cffffff00Dream Blossom|r at fire puddles to clear up ground
+|cffFF7000SOAK|r fire orbs before they touch boss
+|cffFF7000STACK IN MELEE|r for healing during {spell:421316} |cffffff00Consuming Flame|r but |cffFF7000DO NOT BE UNDER BOSS|r
+{T}{tank} |cffFF7000SWAP|r during the {spell:418637} |cffffff00Furious Charge|r cast
+{tank} |cffFF7000RUN|r from raid (into fire) when targeted with {spell:418637} |cffffff00Furious Charge|r
+{tank} |cffFF7000GROUP UP|r |cffa330c9Fiery Treants|r under boss{/T}
+{H}{healer} |cffFF7000HEAL|r |cffa330c9Charred Treants|r
+{healer} |cffFF7000HEAL|r |cffa330c9Brambles|r
+{healer} |cffFF7000BIG HEALS|r during {spell:421316} |cffffff00Consuming Flame|r{/H}
+
+|cff00ff00PHASE 2:|r
+|cffFF7000SOAK|r red circles
+|cffFF7000RUN|r red arrow {spell:421326} |cffffff00Flash Fire|r away from raid
+{T}{tank} |cffFF7000SWAP|r after {spell:421318} |cffffff00Smoldering Backdraft|r
+{tank} |cffFF7000STACK ON MELEE|r when afflicted with {spell:421318} |cffffff00Smoldering Backdraft|r{/T}
+{H}{healer} |cffFF7000HEAL|r players with red arrows to purge heal absorb{/H}

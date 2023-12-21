@@ -1,0 +1,13 @@
+{skull}|cffFF00FF  Smolderon|r  {skull}
+
+|cff00ff00PHASE 1:|r
+|cffFF7000SOAK|r tank AoE if you |cffFF7000DO NOT HAVE A RED CIRCLE|r
+|cffFF7000SPREAD|r if you have red circle
+{T}{tank} Keep boss at edge of arena and rotate occasionally out of lava pools
+{tank} |cffFF7000SWAP|r after {spell:421343} |cffffff00Brand of Damnation|r 
+{tank} |cffc41e3aHeroic:|r |cffFF7000RUN FROM RAID|r after {spell:421343} |cffffff00Brand of Damnation|r{/T}
+{H}{healer} |cffFF7000HEAL|r through heal absorb on tank soak{/H}
+
+|cff00ff00PHASE 2 (full energy):|r
+|cffFF7000DODGE|r rings of fire
+|cffFF7000SOAK|r fire orbs. |cffFF7000YOU CAN ONLY SEE YOUR OWN|r
