@@ -1,0 +1,26 @@
+{skull}|cffFF00FF  Tindral Sageswift|r  {skull}
+
+|cff00ff00ALL PHASES:|r
+|cffFF7000SPREAD IN MELEE|r when marked with small red circle, then |cffFF7000CLEAVE|r vines
+{T}{tank} |cffFF7000ALTERNATE SOAKING|r {spell:423260} |cffffff00Blazing Mushroom|r
+{tank} |cffFF7000SWAP|r after X stacks of {spell:422000} |cffffff00Searing Wrath|r{/T}
+{H}{healer} |cffFF7000BIG HEALS|r on tanks soaking mushrooms{/H}
+
+|cff00ff00PHASE 1:|r
+|cffFF7000DODGE|r fire tornadoes
+
+|cff00ff00INTERMISSION:|r
+|cffFF7000GRAB FEATHER|r, |cffFF7000MOUNT UP|r, |cffFF7000FLY NORTH|r, |cffFF7000GRAB GREEN ORBS|r
+|cffFF7000BREAK|r Tindral's shield
+
+|cff00ff00PHASE 2:|r
+|cffFF7000RUN OVER|r seeds
+|cffc41e3aHeroic:|r Seeds give |cffFF7000STACKING DAMAGE|r. Limit how many you pop
+{H}{healer} |cffFF7000BIG HEALS|r on those running over seeds.|r
+{healer} |cffFF7000DO NOT|r run over seeds. Save healing for others{/H}
+
+|cff00ff00INTERMISSION:|r
+|cffFF7000GRAB FEATHER|r, |cffFF7000MOUNT UP|r, |cffFF7000FLY SOUTH-EAST|r, |cffFF7000GRAB GREEN ORBS|r
+
+|cff00ff00PHASE 3:|r
+Includes all mechanics above

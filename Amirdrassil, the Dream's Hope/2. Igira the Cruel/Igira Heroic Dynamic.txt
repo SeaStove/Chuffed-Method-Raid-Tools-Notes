@@ -1,0 +1,10 @@
+{skull}|cffFF00FF  Igira the Cruel|r  {skull}
+
+|cffFF7000SPREAD|r near melee and |cffFF7000KILL|r {spell:414425} |cffffff00Blistering Spear|r.
+|cffFF7000DODGE|r {spell:416998} |cffffff00Twisting Blade|r 
+|cffFF7000SOAK|r Axe -> Sword -> Spear during {spell:422776} |cffffff00Marked for Torment|r
+  AXE: |cffFF7000SOAK|r under tank. Odd group first, Even group second
+  SWORD: |cffFF7000DODGE|r leaps
+  SPEAR: {T}Business as usual{/T}{D}Business as usual{/D}{H}{healer} HEAL through the Heal Absorbs{/H}
+{T}{tank} |cffFF7000BOTH TANKS STACK|r to split {spell:423108} |cffffff00Vicious Swing|r
+{tank} |cffFF7000SWAP|r at X stacks of {spell:414340} |cffffff00Drenched Blades|r as possible{/T}

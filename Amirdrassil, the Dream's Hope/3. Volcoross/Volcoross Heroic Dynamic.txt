@@ -1,0 +1,15 @@
+{skull}|cffFF00FF  Volcoross|r  {skull}
+
+|cff00ff00PRE-PULL:|r
+|cffFF7000SPLIT THE RAID|r into two groups
+One group goes left, another right after soaking {spell:420934} |cffffff00Flood of the Firelands|r 
+
+|cff00ff00BEGIN:|r
+{spell:2825} |cffFF7000BLOODLUST|r on pull
+
+|cffFF7000SOAK|r {spell:420934} |cffffff00Flood of the Firelands|r 
+|cffFF7000SPREAD and DEFENSIVE CD|r on {spell:421284} |cffffff00Coiling Flames|r.
+|cffFF7000DODGE|r the tail shadow from {spell:420421} |cffffff00Scorchtail Crash|r.
+|cffFF7000BAIT AND DODGE|r projectiles from {spell:421616} |cffffff00Volcanic Disgorge|r.
+{H}{healer}|cffFF7000HEAL THROUGH|r |cffffff00Serpent's Fury|r.{/H}
+{T}{tank} |cffFF7000SWAP|r on {spell:423117} |cffffff00Cataclysm Jaws|r cast.{/T}

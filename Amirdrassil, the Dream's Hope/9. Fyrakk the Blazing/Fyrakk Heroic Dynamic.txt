@@ -1,0 +1,36 @@
+{skull}|cffFF00FF  Fyrakk the Blazing|r  {skull}
+
+|cff00ff00PRE-PULL:|r
+Decide on seed holders (likely people who know the fight)
+
+|cff00ff00PHASE 1:|r
+|cffFF7000DON'T STAND BY ROOTS|r
+|cffFF7000RUN|r from raid and drop {spell:419506} |cffffff00Firestorm|r close to dark pools
+|cffFF7000RUN|r from large AoE rift {spell:417455} |cffffff00Dream Rend|r 
+|cffFF7000RUN|r from raid if marked with {spell:414186} |cffffff00Blaze|r 
+{T}{tank} |cffFF7000KEEP BOSS|r away from roots, near the burning edge
+{tank} |cffFF7000SWAP|r after X stacks of {spell:417431} |cffffff00Fyr'alath's Bite|r {/T}
+{H}{healer} DISPEL {spell:417807} |cffffff00Aflame|r from players{/H}
+
+|cff00ff00INTERMISSION (70%):|r
+|cffFF7000BREAK SHIELD|r (you have 30s)
+|cffFF7000SOAK|r orbs that move towards boss
+|cffFF7000DODGE|r frontal breath
+
+|cff00ff00PHASE 2:|r
+|cffFF7000DODGE|r flying breath (dark column across arena)
+|cffFF7000KILL|r both colossus quickly
+|cffFF7000KILL|r and |cffFF7000INTERRUPT|r adds that spawn from breath
+    |cffFF7000FOCUS|r the |cffa330c9Screaming Souls|r that are in the path of friendly spirits
+{H}{healer} |cffFF7000HEAL|r friendly spirits that move towards the heart{/H}
+{T}{tank} |cffFF7000TANK|r colossus adds together{/T}
+
+|cff00ff00PHASE 3:|r
+|cffFF7000DO NOT GET HIT IF HOLDING A SEED|r
+    |cffFF7000DROP SEED|r (action button) if targeted, then |cffFF7000RUN|r
+|cffFF7000USE THE SEED|r {spell:423717} |cffffff00Bloom|r when boss channels {spell:422837} |cffffff00Apocalypse Roar|r 
+|cffc41e3aHeroic:|r |cffFF7000RUN|r from raid if marked with {spell:414186} |cffffff00Blaze|r, and |cffFF7000DO NOT HIT SEED HOLDERS|r
+|cffFF7000RUN|r from raid if targeted with {spell:422935} |cffffff00Eternal Firestorm|r 
+{T}{tank} SWAP on {spell:425492} |cffffff00Infernal Maw|r{/T}
+{H}{healer} |cffFF7000BIG HEALS|r on tank after {spell:425492} |cffffff00Infernal Maw|r{/H}
+

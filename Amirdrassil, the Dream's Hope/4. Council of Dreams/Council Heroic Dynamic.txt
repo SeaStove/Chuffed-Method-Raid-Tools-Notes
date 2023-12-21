@@ -1,0 +1,17 @@
+{skull}|cffFF00FF  Council of Dreams|r  {skull}
+
+|cff00ff00PRE-PULL:|r
+|cffFF7000SPLIT THE RAID|r into two groups (A, B)
+
+|cff00ff00BEGIN:|r
+|cffc41e3aHeroic:|r Group A and B alternate |cffFF7000SOAKING|r {spell:420946} |cffffff00Barreling Charge|r on tank
+|cffFF7000AVOID|r green puddles from {spell:420671} |cffffff00Noxious Blossom|r 
+|cffFF7000RUN THROUGH|r 3 green puddles when {spell:418720} |cffFF7000DUCK POLYMORPHED|r, then either:
+    {spell:422372} |cffffff00Preen|r on |cffa330c9Urctos|r during {spell:420525} |cffffff00Blind Rage|r, or
+    {spell:422372} |cffffff00Preen|r |cffFF7000AWAY FROM PLAYERS|r
+|cffFF7000SOAK|r green puddles when afflicted with {spell:421029} |cffffff00Song of the Dragon|r
+{T}{tank} Tank Urctos on top of another boss.{/T}
+{T}{tank} |cffFF7000SWAP|r after every {spell:421020} |cffffff00Agonizing Claws|r {/T}
+{T}{tank} |cffFF7000AIM|r {spell:420946} |cffffff00Barreling Charge|r away from raid.
+{T}{tank} |cffFF7000AIM|r {spell:420946} |cffffff00Barreling Charge|r at |cffa330c9Aerwynn|r when she casts {spell:421292} |cffffff00Constricting Thicket|r{/T}
+{H}{healer}|cffFF7000DISPELL|r {spell:420856} |cffffff00Poisonous Javelin|r{/H}
